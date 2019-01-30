@@ -10,13 +10,14 @@ This version includes all 304+ service domains completed (2000+ Service operatio
 
 It's great opportunity to use banking patterns in your micro service architecture
 
-<H1>Service landscape example</H1>
+<H1>Service landscape example</H1><br>
+
 ![BIAN service landscape demo.png](BIAN%20service%20landscape%20demo.png)
 
-<H1>Service operations example</H1>
+<H1>Service operations example</H1><br>
 
 ![BIAN one service operations example.png](BIAN%20one%20service%20operations%20example.png)
 
-<H1> A few service domains example</H1>
+<H1> A few service domains example</H1><br>
 
 ![BIAN relations between services example.png](BIAN%20relations%20between%20services%20example.png)
