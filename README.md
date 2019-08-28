@@ -8,6 +8,11 @@ https://arch.expert.life
 
 This version includes all 304+ service domains completed (2000+ Service operations), a few business scenarios.
 
+Model also avialable in Model Exchange File Format
+https://www.opengroup.org/open-group-archimate-model-exchange-file-format
+Yoy can import the file into most popular enterprise architecture tools, like Sparx Enterprise Architect https://sparxsystems.com/enterprise_architect_user_guide/14.0/model_domains/imparchmeff.html
+
+
 <H1>A modern REST API that can serve as a starting point for your financial services.</H1><br>
 It's great opportunity to use banking patterns in your micro service architecture.
 88 out of 306 microservices are ready, marked green in the diagramm.
