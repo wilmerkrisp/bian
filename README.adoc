@@ -37,6 +37,6 @@ image:BIAN%20relations%20between%20services%20example.png["BIAN relations betwee
 
 == Architecture with JArchitect
 image:https://www.jarchitect.com/assets/img/transparentlogo.png["JArchitecture",width=170,link="www.jarchitect.com"]
-Architecture diagrams is also presented for comparison (coming soon!), built with JArchitect. Thanks to Codegear / CppDepend for the JArchitect.
+Architecture diagrams is also presented for comparison (coming soon!), built with JArchitect. Thanks to Codegears / CppDepend for the JArchitect.
 
 
