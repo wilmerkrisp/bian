@@ -1,0 +1,42 @@
+= BIAN
+
+The Banking Industry Architecture Network e.V. (BIAN) SERVICE LANDSCAPE 7.0 in Archimate 3 model
+
+You can open it in  https://www.archimatetool.com[ArchiTool]
+
+https://arch.expert.life
+
+This version includes all 304+ service domains completed (2000+ Service operations), a few business scenarios.
+
+Model also avialable in
+https://www.opengroup.org/open-group-archimate-model-exchange-file-format[Model Exchange File Format]
+Yoy can import the file into most popular enterprise architecture tools, like  https://sparxsystems.com/enterprise_architect_user_guide/14.0/model_domains/imparchmeff.html[Sparx Enterprise Architect]
+
+
+== A modern REST API that can serve as a starting point for your financial services.
+It's great opportunity to use banking patterns in your micro service architecture.
+88 out of 306 microservices are ready, marked green in the diagramm.
+You can download Java source codes (#SPRING,#DOCKER) at https://portal.bian.org[BIAN portal]
+
+
+image:msa1.png[link="msa1.png"]
+image:msa2.png[link="msa2.png"]
+image:msa3.png[link="msa3.png"]
+
+== Service landscape example
+
+image:BIAN%20service%20landscape%20demo.png["BIAN service landscape demo", link="BIAN%20service%20landscape%20demo.png"]
+
+== Service operations example
+
+image:BIAN%20one%20service%20operations%20example.png["BIAN one service operations example",link="BIAN%20one%20service%20operations%20example.png"]
+
+== A few service domains example
+
+image:BIAN%20relations%20between%20services%20example.png["BIAN relations between services example",link="BIAN%20relations%20between%20services%20example.png"]
+
+== Architecture with JArchitecture
+image:https://www.jarchitect.com/assets/img/transparentlogo.png["JArchitecture",width=170,link="www.jarchitect.com"]
+Architecture diagrams is also presented for comparison (coming soon!), built with JArchitect. Thanks to Codegear / CppDepend for the JArchitect.
+
+
