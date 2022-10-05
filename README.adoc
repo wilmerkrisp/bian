@@ -1,3 +1,7 @@
+= foreword by Vaughn Vernon
+
+
+
 = BIAN
 
 The Banking Industry Architecture Network e.V. (BIAN) SERVICE LANDSCAPE 7.0 in Archimate 3 model
