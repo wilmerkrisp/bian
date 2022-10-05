@@ -1,6 +1,6 @@
 = foreword by Vaughn Vernon
 
-
+image:foreword.jpg[link="foreword.jpg"]
 
 = BIAN
 
